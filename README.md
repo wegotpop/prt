@@ -15,8 +15,8 @@ compatible.
         - [Identifiers](#identifiers)
         - [Attributes](#attributes)
             - [Generic](#generic)
-            - [0x00](#0x00)
-            - [0x0B](#0x0B)
+            - [Specific to 0x00](#specific-to-0x00)
+            - [Specific to 0x0B](#specific-to-0x0b)
 
 - [PRTv1.0](#prtv10)
 
@@ -117,11 +117,11 @@ The following examples are all in `JSON`.
 - **`'id'`**
 - **`'class'`**
 
-##### `0x00`
+##### Specific to `0x00`
 
 - **`'href'`**
 
-##### `0x0B`
+##### Specific to `0x0B`
 
 - **`'alt'`**
 - **`'src'`**

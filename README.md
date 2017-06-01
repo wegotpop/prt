@@ -19,6 +19,7 @@ compatible.
             - [Specific to 0x0B](#specific-to-0x0b)
 
 - [PRTv1.0](#prtv10)
+- [Lincese](#license)
 
 
 ## PRTv2.0
@@ -78,9 +79,9 @@ The following examples are all in `JSON`.
 
 ### Reference Implementations
 
-- [Server side (python)](#)
-- [Client side (javascript)](#) *(Reactified implementation)*
-- [GUI binding (javascript)](#) *([Draft.js](https://draftjs.org) binding)*
+- [Server side (python)][1]
+- [Client side (javascript)][2] *(Reactified implementation)*
+- [GUI binding (javascript)][3] *([Draft.js](https://draftjs.org) binding)*
 
 
 ### The pop-dialect
@@ -128,18 +129,16 @@ The following examples are all in `JSON`.
 
 
 
-PRTv1.0
--------
+## PRTv1.0
 
 The initial version was used internally and has never been released to the
 public.
 
 
 
-License
--------
+## License
 
-Copyright &copy;2017 [**We Got POP Ltd.**](https://www.wegotpop.com)
+Copyright &copy;2017 [**We Got POP Ltd.**][4]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
@@ -157,3 +156,9 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+<!-- anchors -->
+[1]: https://github.com/wegotpop/prt-server
+[2]: https://github.com/wegotpop/prt-client
+[3]: https://github.com/wegotpop/prt-web
+[4]: https://www.wegotpop.com

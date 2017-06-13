@@ -2,3 +2,6 @@
 	path = prt-server
 	url = https://github.com/wegotpop/prt-server.git
 
+[submodule "prt-client"]
+	path = prt-client
+	url = https://github.com/wegotpop/prt-client.git

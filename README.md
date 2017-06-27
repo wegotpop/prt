@@ -80,8 +80,11 @@ The following examples are all in `JSON`.
 ### Reference Implementations
 
 - [Server side (python)][1]
+    - Install: `pip install prt`
 - [Client side (javascript)][2] *(Reactified implementation)*
+    - Install: `npm install --save prt-client`
 - [GUI binding (javascript)][3] *([Draft.js](https://draftjs.org) binding)*
+    - Install: `npm install --save prt-draft-js`
 
 
 ### The pop-dialect
@@ -160,5 +163,5 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 <!-- anchors -->
 [1]: https://github.com/wegotpop/prt-server
 [2]: https://github.com/wegotpop/prt-client
-[3]: https://github.com/wegotpop/prt-web
+[3]: https://github.com/wegotpop/prt-draft-js
 [4]: https://www.wegotpop.com

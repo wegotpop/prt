@@ -5,3 +5,6 @@
 [submodule "prt-client"]
 	path = prt-client
 	url = https://github.com/wegotpop/prt-client.git
+[submodule "prt-draft-js"]
+	path = prt-draft-js
+	url = https://github.com/wegotpop/prt-draft-js.git
